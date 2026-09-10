@@ -65,8 +65,6 @@ LANGUAGES  English (professional working) · नेपाली (native)
 
 **B.E. Electronics, Communication & Information Engineering** — IOE, Paschimanchal Campus (WRC), Pokhara · *2026–2030*
 
-**Higher Secondary (Grade XII), Science** — Global Collegiate School, Pokhara · NEB GPA 3.60 / 4.00 · *2023–2025*
-
 ---
 
 <p align="center">
