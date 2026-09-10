@@ -12,33 +12,17 @@
   <img alt="Location" src="https://img.shields.io/badge/Pokhara-Nepal-C98A4B?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
 
----
-
-### About
-
-I'm a B.E. student in **Electronics, Communication & Information Engineering** at **IOE Paschimanchal Campus (WRC), Pokhara**, and I build hardware from the schematic up — **12+ KiCad boards**, one of them fabricated by hand in the Robotics Club workshop, and an **ESP32 robot** with two autonomous modes plus manual control.
-
-I also build full websites, front end through admin dashboard.
-
-**Currently looking for PCB design and embedded systems internships.**
+<p align="center">
+  <img alt="Open to internships" src="https://img.shields.io/badge/Open%20to-PCB%20%26%20embedded%20internships-A75F26?style=flat-square">
+</p>
 
 ```text
 FOCUS      KiCad · schematic capture · PCB layout · power circuits
 EMBEDDED   ESP32 · Arduino · C/C++ · IR & ultrasonic sensing · motor drivers
-WEB        HTML/CSS · JavaScript · Node.js · databases & auth · Flutter
+WEB        TypeScript · React · Next.js · Node.js · Supabase · PostgreSQL
+MOBILE     Dart · Flutter
 LANGUAGES  English (professional working) · नेपाली (native)
 ```
-
----
-
-### Selected work
-
-| Project | What it is | Key details |
-| :--- | :--- | :--- |
-| **Robo Bot** — autonomous & manual robot<br><sub>Robotics Club, IOE Paschimanchal · 2026</sub> | A three-mode ESP32 robot, switchable at run time | Line following · wall following · manual control. IR array for line tracking, ultrasonic sensors for wall distance, tuned motor-driver logic. Chassis, power wiring and documentation mine. |
-| **KiCad PCB portfolio** — 12+ boards<br><sub>Self-directed · 2026</sub> | Schematic-to-layout, fabrication-ready | 30 W inverter · transformerless power supply · AC-DC converter · bridge rectifier · relay module · touch switch · Arduino Nano breakout. Footprint selection, net classes, power-path trace widths, ground planes. One board fabricated by hand. |
-| **Websites with admin dashboards**<br><sub>Private client work · 2026</sub> | Responsive multi-page sites with a protected back office | User authentication, database-backed content, CRUD screens. Samples on request. |
-| **Weather service & Flutter calculator**<br><sub>Training projects · 2026</sub> | Two builds from structured training | Node.js service querying a third-party weather API by city, with environment-based config and error handling. Dart/Flutter calculator with stateful expression handling and a responsive keypad. |
 
 ---
 
@@ -60,20 +44,45 @@ LANGUAGES  English (professional working) · नेपाली (native)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
 ![Sensors](https://img.shields.io/badge/IR%20%26%20ultrasonic%20sensors-2F6B62?style=flat-square)
 ![Motor drivers](https://img.shields.io/badge/Motor%20drivers-2F6B62?style=flat-square)
 ![Power supplies](https://img.shields.io/badge/Power--supply%20circuits-2F6B62?style=flat-square)
 
-**Web & software**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2F6B62?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT%20auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Tools & deployment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -92,15 +101,6 @@ LANGUAGES  English (professional working) · नेपाली (native)
 **B.E. Electronics, Communication & Information Engineering** — IOE, Paschimanchal Campus (WRC), Pokhara · *2026–2030*
 
 **Higher Secondary (Grade XII), Science** — Global Collegiate School, Pokhara · NEB GPA 3.60 / 4.00 · *2023–2025*
-
----
-
-### GitHub
-
-<p align="center">
-  <img height="160" alt="Pawan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pawan3890&show_icons=true&hide_border=true&title_color=B87333&icon_color=B87333&text_color=808080&bg_color=00000000">
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan3890&layout=compact&hide_border=true&title_color=B87333&text_color=808080&bg_color=00000000">
-</p>
 
 ---
 
