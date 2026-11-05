@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electronics, Communication &amp; Information Engineering undergraduate</b><br>
-  PCB design &amp; embedded systems — from the schematic up
+  PCB design &amp; embedded systems  from the schematic up
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@ FOCUS      KiCad · schematic capture · PCB layout · power circuits
 EMBEDDED   ESP32 · Arduino · C/C++ · IR & ultrasonic sensing · motor drivers
 WEB        TypeScript · React · Next.js · Node.js · Supabase · PostgreSQL
 MOBILE     Dart · Flutter
-LANGUAGES  English (professional working) · नेपाली (native)
 ```
 
 ---
@@ -53,17 +52,17 @@ LANGUAGES  English (professional working) · नेपाली (native)
 
 ### Training & certifications
 
-- **JavaScript Backend Mastery** — 7-day mentorship, Club of Technical Students (CoTS), Paschimanchal Campus · *Jun–Jul 2026*
-- **Battle for Speed 2026** — participant, Robotics Club, IOE Paschimanchal Campus · *Jul 2026*
-- **PCB Fabrication Workshop** — schematic to finished board, Robotics Club, IOE Paschimanchal Campus · *2026*
-- **Mobile Development with Flutter** — Training Ground programme, project: calculator app · *2026*
-- **Web Development** — ongoing coursework, full-stack site builds · *2026*
+- **JavaScript Backend Mastery**  7-day mentorship, Club of Technical Students (CoTS), Paschimanchal Campus · *Jun–Jul 2026*
+- **Battle for Speed 2026**  participant, Robotics Club, IOE Paschimanchal Campus · *Jul 2026*
+- **PCB Fabrication Workshop**  schematic to finished board, Robotics Club, IOE Paschimanchal Campus · *2026*
+- **Mobile Development with Flutter**  Training Ground programme, project: calculator app · *2026*
+- **Web Development**  ongoing coursework, full-stack site builds · *2026*
 
 ---
 
 ### Education
 
-**B.E. Electronics, Communication & Information Engineering** — IOE, Paschimanchal Campus (WRC), Pokhara · *2026–2030*
+**B.E. Electronics, Communication & Information Engineering**  IOE, Paschimanchal Campus (WRC), Pokhara · *2026–2030*
 
 ---
 
